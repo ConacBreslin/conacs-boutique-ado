@@ -1,1 +1,1 @@
-Boutique Ado Confirmation for Order Number {{ order.order_number }}
+Conac's Boutique Ado Confirmation for Order Number {{ order.order_number }}
